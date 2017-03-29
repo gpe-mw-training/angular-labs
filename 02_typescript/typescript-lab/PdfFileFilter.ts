@@ -8,7 +8,7 @@ export class PdfFileFilter implements FileFilter {
    */
   accept(fileName : string) : boolean {
 
-    var data = fileName.split(".");
+    let data = fileName.split(".");
 
     let result = (data.length == 2) && data[1] == "pdf";
 
