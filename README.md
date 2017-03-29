@@ -7,8 +7,8 @@ This repository contains the Angular lab exercises. They are managed under 2 dis
 
 The labs are available here for download : 
 
-* exercises-v0.1 : [tar.gz](https://github.com/gpe-mw-training/angular-labs/archive/v0.1-exercise.tar.gz) and [zip](https://github.com/gpe-mw-training/angular-labs/archive/v0.1-exercise.zip)
+* exercises : [tar.gz](https://github.com/gpe-mw-training/angular-labs/archive/exercise.tar.gz) and [zip](https://github.com/gpe-mw-training/angular-labs/archive/exercise.zip)
 
-* solutions-v0.1 : [tar.gz](https://github.com/gpe-mw-training/angular-labs/archive/v0.1-solution.tar.gz) and [zip](https://github.com/gpe-mw-training/angular-labs/archive/v0.1-solution.zip)
+* solutions : [tar.gz](https://github.com/gpe-mw-training/angular-labs/archive/solution.tar.gz) and [zip](https://github.com/gpe-mw-training/angular-labs/archive/solution.zip)
 
 Enjoy. The GPTE Team !
